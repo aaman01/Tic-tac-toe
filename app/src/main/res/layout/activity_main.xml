@@ -135,7 +135,7 @@
 
     <TextView
         android:id="@+id/winnertextview"
-        android:layout_width="136dp"
+        android:layout_width="177dp"
         android:layout_height="27dp"
         android:layout_marginStart="173dp"
         android:layout_marginTop="40dp"
